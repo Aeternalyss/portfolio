@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+/**
+ * @author Prénom Nom courriel
+ *
+ * TABLE DES MATIÈRES
+ * Normalize
+ * Utilitaires
+ * Charte typographique
+ * Grille
+ * Menu
+ * Règles générales
+ * Mise en page
+ *** Entête du site
+ *** Menu principal
+ *** Accroche
+ *** Entreprise
+ *** Expériences
+ *** Services
+ *** Pied de page
+ */
+
+/* Normalize
+   ========================================================================== */
+@import "_normalize.css";
+
+/* Utilitaires (variables À DÉFINIR)
+   ========================================================================== */
+@import "_utilitaires.css";
+
+/* Charte typographique
+   ========================================================================== */
+@import "_typo.css";
+
+/* Grille
+   ========================================================================== */
+@import "_grille.css";
+
+/* Menu
+   ========================================================================== */
+@import "_menu.css";
